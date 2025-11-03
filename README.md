@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-11-03 093146" src="https://github.com/user-attachments/assets/419518f0-8fb3-4cf0-967c-3fba0c6fde79" />Program ini berfungsi untuk menghitung faktorial dari suatu bilangan bulat positif yang dimasukkan oleh pengguna.
+Program ini berfungsi untuk menghitung faktorial dari suatu bilangan bulat positif yang dimasukkan oleh pengguna.
 Cara kerjanya:
 Program meminta pengguna memasukkan bilangan bulat positif (n).
 Nilai awal variabel faktorial diset ke 1.
